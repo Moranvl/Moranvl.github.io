@@ -7,7 +7,7 @@ url: https://moranvl.github.io
 # Owner/author information
 owner:
   name: Zhen ZHAO
-  avatar: hanlin.jpg
+  avatar: images/head.jpg
 #  bio:
   email: MeetZhenZhao@outlook.com
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
@@ -34,8 +34,8 @@ google_verify: "XqGEBhw-fD-JIXm665X3Imm45KFFny2UkEwim-R2Pd0"
 links:
   - title: About Me
     url: /
-  - title: Resume
-    url: /file/CV-HanlinCAI.pdf
+  # - title: Resume
+  #   url: /file/CV-HanlinCAI.pdf
   - title: Publications
     url: /publications/
   - title: Awards
@@ -76,8 +76,8 @@ kramdown:
 
 
 # disqus settings:
-disqus:
-  shortname: lancecai
+# disqus:
+#   shortname: lancecai
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "minimal-mistakes.sublime-project", "minimal-mistakes.sublime-workspace"]
