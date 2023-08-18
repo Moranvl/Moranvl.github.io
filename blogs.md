@@ -8,7 +8,7 @@ title: Blogs
 
 ### 2023
 
-- begining! No blogs now.
+- Begining! No blogs now.
 
 <br>
 
