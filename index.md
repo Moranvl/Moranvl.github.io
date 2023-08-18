@@ -4,11 +4,11 @@ layout: page
 
 # About Me
 
-<img src="https://moranvl.github.io//caihanlin.jpg" class="floatpic" width="360" height="480">
+<img src="https://moranvl.github.io//moranvl.jpg" class="floatpic" width="360" height="480">
 
-Here is **Zhen ZHAO (Moranvl, [赵振](https://caihanlin.com/file/蔡汉霖简历.pdf))**.
+Here is **Zhen ZHAO (Moranvl, 赵振)**.
 
-I am a Ph.D student majoring in **Mechanical Engineering** at Nanjing University of Aeronautics and Astronautics. Currently, I am working in the **Smart Factory Lab** (In NUAA), advised by [Prof. D.Tang](https://cmee.nuaa.edu.cn/2019/1126/c11684a189146/page.htm). Here is [my CV](https://caihanlin.com/file/CV-HanlinCAI.pdf).
+I am a Ph.D student majoring in **Mechanical Engineering** at Nanjing University of Aeronautics and Astronautics. Currently, I am working in the **Smart Factory Lab** (In NUAA), advised by [Prof. D.Tang](https://cmee.nuaa.edu.cn/2019/1126/c11684a189146/page.htm).
 
 <br>
 
