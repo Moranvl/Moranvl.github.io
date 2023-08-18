@@ -4,45 +4,44 @@ layout: page
 
 # About Me
 
-<img src="https://caihanlin.com/caihanlin.jpg" class="floatpic" width="360" height="480">
+<img src="https://moranvl.github.io//caihanlin.jpg" class="floatpic" width="360" height="480">
 
-Here is **Hanlin Cai (Lance, [蔡汉霖](https://caihanlin.com/file/蔡汉霖简历.pdf))**.
+Here is **Zhen ZHAO (Moranvl, [赵振](https://caihanlin.com/file/蔡汉霖简历.pdf))**.
 
-I am a senior student majoring in **Automation** at Fuzhou University and **Robotics** at Maynooth University (Ireland, Combined Degrees). Currently, I am working as a research assistant in the **IACTIP Lab** (Provincial Key), advised by [Prof. Zhezhuang Xu](https://www.researchgate.net/profile/Zhezhuang-Xu). Here is [my CV](https://caihanlin.com/file/CV-HanlinCAI.pdf).
+I am a Ph.D student majoring in **Mechanical Engineering** at Nanjing University of Aeronautics and Astronautics. Currently, I am working in the **Smart Factory Lab** (In NUAA), advised by [Prof. D.Tang](https://cmee.nuaa.edu.cn/2019/1126/c11684a189146/page.htm). Here is [my CV](https://caihanlin.com/file/CV-HanlinCAI.pdf).
 
 <br>
 
 ## Academic Background
 
-**<font color='red'>[Highlight]</font> I am looking for PhD to start in 2025 Fall. Contact me if you have any leads!**
+<!-- **<font color='red'>[Highlight]</font> I am looking for PhD to start in 2025 Fall. Contact me if you have any leads!** -->
 
-- **Sep 2020 - June 2024:** Fuzhou University (BEng)
-- **Sep 2020 - May 2024:** Maynooth University (BSc)
-- **June 2022 - Nov 2022:** Cambridge University (Intern)
-- Expect to apply for a one-year MSc in the UK and will graduate in 2025. Looking for PhD position after MSc!
+- **Sep 2017 - June 2021:** Nanjing University of Aeronautics and Astronautics (B.Eng)
+- **Sep 2021 - May 2026:** Nanjing University of Aeronautics and Astronautics (Ph.D)
 
 <br>
 
 ---
 
-## Research Interests
+## Research Interests and Fields
 
+- Applied Reinforcement Learning in Industry
+- Multi Agent System
+- Job Shop Scheduling
+- Digital Twin Factory
+- Point Cloud in Industry with Meachine Learning
 - Industrial IoT System
-- Bluetooth Low Energy
-- Applied Machine Learning
+- BlockChain in Industry
+- Unity 3D in Industry
 
-My current research focuses on practical problems that artificial intelligence faces in real life. My interests are on the **Machine Learning** and its applications in **Industrial IoT**. In a word, advanced technologies like ML and IoT positively influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society.
+My current research focuses on building bridges between industry and information technology. 
 
 <br>
 
 ---
 
-## News and Updates
+## Contact information
 
-- **May 2023：**Happy to be awarded the XiamenAir Scholarship.
-- **May 2023：**Happy to win the Finalist Award in MCM 2023.
-- **Feb 2023：**[**FZU-Flying-Book 福州大学飞跃手册**](https://fzu-fly.online/) has been published!
-- **Jan 2023：**One paper accepted to ICAROB 2023, see you in Japan!
-- **Sep 2022：**Happy to be nominated for the China National Scholarship.
-- **Jun 2022：**Summer Research Intern at Cambridge University, advised by [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/ ).
+- [Telegram](https://t.me/Moranvl)
 - [Online talk with me.](https://calendly.com/lancecai/meet-with-lance)
+- Email: MeetZhenZhao@outlook.com
