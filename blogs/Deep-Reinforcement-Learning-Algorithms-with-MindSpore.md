@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /blogs/21yrs/index.html
+permalink: /blogs/Deep-Reinforcement-Learning-Algorithms-with-MindSpore/index.html
 title: Deep-Reinforcement-Learning-Algorithms-with-MindSpore
 ---
 
