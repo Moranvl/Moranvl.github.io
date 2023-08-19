@@ -7,7 +7,7 @@ title: Blogs
 ## Chinese Blogs
 
 ### 2023
-- [Deep-Reinforcement-Learning-Algorithms-with-MindSpore](blogs/Deep-Reinforcement-Learning-Algorithms-with-MindSpore)
+- [Deep-Reinforcement-Learning-Algorithms-with-MindSpore](Deep-Reinforcement-Learning-Algorithms-with-MindSpore)
 - Begining! No more blogs now.
 
 <br>
