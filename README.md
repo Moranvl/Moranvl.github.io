@@ -4,7 +4,7 @@ My name is **Zhen ZHAO(Moranvl, 赵振)**. Here is my personal website. Welcome 
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=GuangLun2000/GuangLun2000.github.io&type=Date)](https://star-history.com/#GuangLun2000/GuangLun2000.github.io&Date)
+<!-- [![Star History Chart](https://api.star-history.com/svg?repos=GuangLun2000/GuangLun2000.github.io&type=Date)](https://star-history.com/#GuangLun2000/GuangLun2000.github.io&Date) -->
 
 ## Statement
 

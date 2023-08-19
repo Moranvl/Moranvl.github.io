@@ -42,6 +42,5 @@ My current research focuses on building bridges between industry and information
 
 ## Contact information
 
-- [Telegram](https://t.me/Moranvl)
-- [Online talk with me.](https://calendly.com/lancecai/meet-with-lance)
+<!-- - [Online talk with me.](https://calendly.com/lancecai/meet-with-lance) -->
 - Email: MeetZhenZhao@outlook.com
