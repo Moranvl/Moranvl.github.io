@@ -8,7 +8,7 @@ layout: page
 
 Here is **Zhen ZHAO (Moranvl, 赵振)**.
 
-I am a Ph.D student majoring in **Mechanical Engineering** at Nanjing University of Aeronautics and Astronautics. Currently, I am working in the **Smart Factory Lab** (In NUAA), advised by [Prof. D.Tang](https://cmee.nuaa.edu.cn/2019/1126/c11684a189146/page.htm).
+I am a Ph.D candidate majoring in **Mechanical Engineering** at Nanjing University of Aeronautics and Astronautics. Currently, I am working in the **Smart Factory Lab** (In NUAA), advised by [Prof. D.Tang](https://cmee.nuaa.edu.cn/2019/1126/c11684a189146/page.htm).
 
 <br>
 
@@ -28,6 +28,7 @@ I am a Ph.D student majoring in **Mechanical Engineering** at Nanjing University
 - Applied Reinforcement Learning in Industry
 - Multi Agent System
 - Job Shop Scheduling
+- Applications of Large Language Model (LLM)
 - Digital Twin Factory
 - Point Cloud in Industry with Meachine Learning
 - Industrial IoT System

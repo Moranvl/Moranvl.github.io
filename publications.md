@@ -6,7 +6,7 @@ title: Publications
 
 # Publications
 
-Lastest Update: 18th Aug 2023
+Lastest Update: 29th July, 2024
 
 ## Conference Paper
 
@@ -14,7 +14,8 @@ Lastest Update: 18th Aug 2023
 
 ## Working Manuscript
 
-- Coming.
+- Probing a point cloud based expeditious approach with deep learning for constructing digital twin models in shopfloor.
+- A Large Language Model-based multi-agent manufacturing system for intelligent shopfloor.
 
 <br>
 
