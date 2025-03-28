@@ -33,7 +33,7 @@ title: Pytorch-PypiInstall
 2025年3月27日，经评论区提醒与本人测试，可以使用conda forge频道安装具体方法如下：
 打开conda forge的pytorch网站，然后复制其中的安装命令即可。
 
-[Pytorch | Anaconda.org](https://anaconda.org/conda-forge/pytorch)
+[Pytorch|Anaconda.org](https://anaconda.org/conda-forge/pytorch)
 
 
 
