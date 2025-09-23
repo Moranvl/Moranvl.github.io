@@ -18,6 +18,7 @@ I am a Ph.D candidate majoring in **Mechanical Engineering** at Nanjing Universi
 
 - **Sep 2017 - June 2021:** Nanjing University of Aeronautics and Astronautics (B.Eng)
 - **Sep 2021 - May 2026:** Nanjing University of Aeronautics and Astronautics (Ph.D)
+- **Sep 2025 - Feb 2026:** Polytechnic University of Milan (Visiting Ph.D Student)
 
 <br>
 
